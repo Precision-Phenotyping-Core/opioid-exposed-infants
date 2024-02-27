@@ -21,10 +21,28 @@ Opioid-exposed infants can be accurately identified using EHR data. Our publicly
 
 # Contacts:
 **First Author**
-
     Andrew Wiese, Ph.D., M.P.H.
     Assistant Professor, Department of Health Policy
     2525 West End Ave., Room / Suite 700 
     Nashville Tennessee 37203
     615-875-7997
     andrew.d.wiese.1@vumc.org
+
+**Senior Author**
+    Stephen W. Patrick, MD, MPH, MS, FAAP
+    William R. Long Director of Child Health Policy Center for Child Health Policy
+    Professor Pediatrics and Health Policy
+    Director Center for Child Health Policy
+    Executive Director Firefly
+    2525 West End Ave, Suite 1200
+    Nashville Tennessee 37203
+    (615) 322-3475
+    stephen.patrick@vanderbilt.edu
+
+**Phenotype Algorithm Senior Author**
+    Wei-Qi Wei, MD, PhD, FAMIA
+    Associate Professor Department of Biomedical Informatics
+    2525 West End Ave., Suite 1475
+    Nashville Tennessee 37203
+    615-343-1956
+    wei-qi.wei@vumc.org
