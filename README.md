@@ -1,6 +1,12 @@
 # opioid-exposed-infants
 # Title: Performance of phenotype algorithms for the identification of opioid-exposed infants
 
+[Link to Publication]: *Pending Publication*
+
+GitHub URL: https://github.com/Precision-Phenotyping-Core/opioid-exposed-infants
+
+PheKB URL: https://phekb.org/phenotype/opioid-exposed-infants
+
 # Objective 
 Observational studies examining outcomes among opioid-exposed infants are limited by phenotype algorithms that may under identify opioid-exposed infants without neonatal opioid withdrawal syndrome (NOWS). We developed and validated the performance of different phenotype algorithms to identify opioid-exposed infants using electronic health record (EHR) data. 
 
@@ -13,8 +19,9 @@ Among 41,047 dyads meeting exclusion criteria, we identified 1,558 infants (3.80
 Opioid-exposed infants can be accurately identified using EHR data. Our publicly available phenotype algorithms can be used to conduct research examining outcomes among opioid-exposed infants with and without NOWS. 
 
 
-[Link to Publication]: *Pending Publication*
+# Contacts:
+** First Author **
+> Andrew Wiese, Ph.D., M.P.H.
+>
+  Andrew Wiese, Ph.D., M.P.H.
 
-GitHub URL: https://github.com/Precision-Phenotyping-Core/opioid-exposed-infants
-
-PheKB URL: https://phekb.org/phenotype/opioid-exposed-infants
