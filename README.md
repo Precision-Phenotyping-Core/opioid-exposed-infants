@@ -20,8 +20,11 @@ Opioid-exposed infants can be accurately identified using EHR data. Our publicly
 
 
 # Contacts:
-** First Author **
-> Andrew Wiese, Ph.D., M.P.H.
->
-  Andrew Wiese, Ph.D., M.P.H.
+**First Author**
 
+    Andrew Wiese, Ph.D., M.P.H.
+    Assistant Professor, Department of Health Policy
+    2525 West End Ave., Room / Suite 700 
+    Nashville Tennessee 37203
+    615-875-7997
+    andrew.d.wiese.1@vumc.org
